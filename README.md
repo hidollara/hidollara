@@ -1,2 +1,2 @@
-- [自己紹介](https://github.com/hidollra/dotfiles)
+- [自己紹介](https://github.com/hidollara/dotfiles)
 - [Blog](https://hidollara.github.io/blog/)
